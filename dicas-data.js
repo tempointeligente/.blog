@@ -11,11 +11,5 @@ const DICAS_DESTAQUE = [
     "nome": "U",
     "texto": "Demais",
     "origemComentarioId": 17
-  },
-  {
-    "id": "mrputyde",
-    "nome": "H",
-    "texto": "Showdeb",
-    "origemComentarioId": 18
   }
 ];
