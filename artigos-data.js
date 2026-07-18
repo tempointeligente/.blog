@@ -20,7 +20,7 @@ const ARTIGOS = [
   {
     "id": "mrq2wyts",
     "titulo": "Seu telefone pode lembrar das coisas por você",
-    "categoria": "Ferramentas",
+    "categoria": "Tecnologia",
     "numero": "#002",
     "dataISO": "2026-07-18",
     "resumo": "Você já saiu de casa e, no meio do caminho, lembrou que esqueceu de pagar uma conta, responder uma mensagem importante ou comprar algo que precisava?",
